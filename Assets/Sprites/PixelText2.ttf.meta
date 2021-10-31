@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c189d8630568d1940b9a3bf648843366
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pixel Cyr
+  fontNames:
+  - Pixel Cyr
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7e2f650f237e6ce42a7fe2884f81d3ef, type: 3}
+  customCharacters: 
+  fontRenderingMode: 2
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
